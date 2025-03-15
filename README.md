@@ -4,7 +4,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 
 ## Book Structure Overview
 
-### preface.md
+### [Preface](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/2c7ab9bec46bf29704686a7bdec2393a80f3fc58/preface.md)
 - Purpose and scope of this book
 - Who this book is for (experienced Linux users focusing on red teaming)
 - How to use this book effectively
