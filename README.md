@@ -1,6 +1,6 @@
 The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine where I am attempting to document common Kali and Parrot OS tools for redteaming, cyber security and bug bounty. The overall structure of the book is as below
 
-# The Black Book of Linux for CyberSecurity
+# [The Black Book of Linux for CyberSecurity](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/fd0d006508ccb348e29c963604fb7facc924ad61/README.md)
 
 ## Book Structure Overview
 
