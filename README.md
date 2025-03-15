@@ -9,7 +9,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 - Who this book is for (experienced Linux users focusing on red teaming)
 - How to use this book effectively
 
-### Introduction: The Red Team Arsenal
+### [Introduction: The Red Team Arsenal](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/introduction.md)
 - The philosophy behind offensive security tools
 - Understanding the red team methodology
 - How tools map to the MITRE ATT&CK framework
@@ -17,7 +17,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 
 ## Part I: Reconnaissance and Information Gathering
 
-### Chapter 1: Network Discovery and Mapping
+### [Chapter 1: Network Discovery and Mapping](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-1.md)
 - **Nmap** - Advanced usage techniques
   - Port scanning strategies
   - Service enumeration
@@ -37,7 +37,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
   - Data management and reporting
   - Example: Automating multi-phase reconnaissance
 
-### Chapter 2: Web Application Reconnaissance
+### [Chapter 2: Web Application Reconnaissance](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-2.md)
 - **Gobuster/Dirb/Dirbuster** - Directory enumeration
   - Custom wordlists
   - Handling different response codes
@@ -55,7 +55,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
   - Techniques for discovering subdomains
   - Example: Mapping an organization's web presence
 
-### Chapter 3: Wireless Network Analysis
+### [Chapter 3: Wireless Network Analysis](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-3.md)
 - **Aircrack-ng Suite** - Complete toolkit
   - Airmon-ng, Airodump-ng, Aireplay-ng
   - WEP/WPA/WPA2 analysis
@@ -71,7 +71,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 
 ## Part II: Vulnerability Assessment
 
-### Chapter 4: Automated Scanning Tools
+### [Chapter 4: Automated Scanning Tools](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-4.md)
 - **OpenVAS** - Vulnerability scanning framework
   - Scan configuration
   - Report interpretation
@@ -84,7 +84,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 - **Lynis** - Security auditing for Linux systems
   - Example: Hardening assessment of Linux servers
 
-### Chapter 5: Web Application Vulnerability Scanning
+### [Chapter 5: Web Application Vulnerability Scanning](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-5.md)
 - **OWASP ZAP** - Web application scanner
   - Active vs. passive scanning
   - Custom scan policies
@@ -99,7 +99,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
   - Creating custom templates
   - Example: Discovering new CVEs with custom templates
 
-### Chapter 6: Network Vulnerability Assessment
+### [Chapter 6: Network Vulnerability Assessment](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-6.md)
 - **Legion** - Automated network scanner
   - Service enumeration and vulnerability detection
   - Example: Comprehensive network assessment
@@ -112,7 +112,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 
 ## Part III: Exploitation
 
-### Chapter 7: Metasploit Framework In-Depth
+### [Chapter 7: Metasploit Framework In-Depth](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-7.md)
 - **MSFconsole** - Core interface mastery
   - Command structure and workflows
   - Database integration
@@ -131,7 +131,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
   - API usage
   - Example: Creating custom automated attack chains
 
-### Chapter 8: Social Engineering Toolkit
+### [Chapter 8: Social Engineering Toolkit](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-8.md)
 - **SET Framework** - Comprehensive overview
   - Spear-phishing attacks
   - Website cloning
@@ -144,7 +144,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
   - Campaign setup and monitoring
   - Example: Measuring user susceptibility to phishing
 
-### Chapter 9: Exploitation Frameworks and Tools
+### [Chapter 9: Exploitation Frameworks and Tools](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-9.md)
 - **Routersploit** - Router exploitation
   - Module usage
   - Example: Compromising common network devices
@@ -159,7 +159,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
   - Collaborative penetration testing
   - Example: Team-based exploitation
 
-### Chapter 10: Web Application Exploitation
+### [Chapter 10: Web Application Exploitation](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-10.md)
 - **SQLmap** - SQL injection mastery
   - Detection techniques
   - Database enumeration and extraction
@@ -175,7 +175,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 
 ## Part IV: Post-Exploitation
 
-### Chapter 11: Privilege Escalation
+### [Chapter 11: Privilege Escalation](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-11.md)
 - **LinPEAS/WinPEAS** - Privilege escalation scanning
   - Output interpretation
   - Example: Automating privilege escalation discovery
@@ -187,7 +187,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
   - Technical details and usage
   - Example: Reliable privilege escalation chains
 
-### Chapter 12: Maintaining Access
+### [Chapter 12: Maintaining Access](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-12.md)
 - **Weevely** - Web shell management
   - Stealth configuration
   - Example: Creating undetectable backdoors
@@ -200,7 +200,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
   - Multi-platform payloads
   - Example: Android backdoor deployment
 
-### Chapter 13: Data Exfiltration and Collection
+### [Chapter 13: Data Exfiltration and Collection](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-13.md)
 - **PacketWhisper** - Steganographic exfiltration
   - Configuration options
   - Example: Bypassing DLP systems
@@ -216,7 +216,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 
 ## Part V: Network Attacks and Analysis
 
-### Chapter 14: Man-in-the-Middle Frameworks
+### [Chapter 14: Man-in-the-Middle Frameworks](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-14.md)
 - **Ettercap** - MITM attacks
   - ARP poisoning
   - Custom filters
@@ -232,7 +232,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
   - Configuration options
   - Example: Capturing NTLMv2 hashes
 
-### Chapter 15: Wireless Attacks
+### [Chapter 15: Wireless Attacks](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-15.md)
 - **Fluxion** - WPA/WPA2 security auditing
   - Attack methodology
   - Example: Social engineering wireless attacks
@@ -246,7 +246,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
   - Template customization
   - Example: Evil twin attacks
 
-### Chapter 16: Network Spoofing and Hijacking
+### [Chapter 16: Network Spoofing and Hijacking](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-16.md)
 - **Scapy** - Packet manipulation
   - Custom packet creation
   - Example: Advanced network spoofing
@@ -260,7 +260,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 
 ## Part VI: Password Attacks
 
-### Chapter 17: Password Cracking Tools
+### [Chapter 17: Password Cracking Tools](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-17.md)
 - **Hashcat** - GPU-accelerated password cracking
   - Attack modes
   - Rule-based attacks
@@ -277,7 +277,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
   - Profile-based wordlists
   - Example: Creating targeted wordlists
 
-### Chapter 18: Credential Hunting and Management
+### [Chapter 18: Credential Hunting and Management](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-18.md)
 - **CeWL** - Custom wordlist generator
   - Website scraping for organization-specific terms
   - Example: Creating targeted wordlists
@@ -292,7 +292,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 
 ## Part VII: Advanced Topics
 
-### Chapter 19: Anonymity and Evasion
+### [Chapter 19: Anonymity and Evasion](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-19.md)
 - **ProxyChains/Proxychains-ng** - Traffic proxying
   - Configuration for different proxy types
   - Example: Routing tools through TOR
@@ -304,7 +304,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 - **Nipe** - Traffic routing through Tor
   - Example: Transparent tool anonymization
 
-### Chapter 20: Cryptography and Steganography Tools
+### [Chapter 20: Cryptography and Steganography Tools](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-20.md)
 - **OpenSSL** - Cryptographic toolkit
   - Common red team uses
   - Example: Creating malicious certificates
@@ -316,7 +316,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 - **CloakifyFactory** - Data exfiltration
   - Example: Evading data loss prevention systems
 
-### Chapter 21: Forensics Tools for Red Teamers
+### [Chapter 21: Forensics Tools for Red Teamers](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-21.md)
 - **Foremost/Scalpel** - File carving
   - Understanding how data is recovered
   - Example: Anti-forensics techniques
@@ -329,7 +329,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 - **Extundelete** - File recovery
   - Example: Secure deletion methods
 
-### Chapter 22: Reporting and Documentation
+### [Chapter 22: Reporting and Documentation](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-22.md)
 - **Dradis** - Collaboration and reporting
   - Project setup
   - Example: Comprehensive red team documentation
@@ -343,7 +343,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 
 ## Part VIII: MITRE ATT&CK Integration
 
-### Chapter 23: Mapping Tools to TTPs
+### [Chapter 23: Mapping Tools to TTPs](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-23.md)
 - Reconnaissance techniques and corresponding tools
 - Initial access tools and methods
 - Execution frameworks and utilities
@@ -356,7 +356,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 - Collection and exfiltration tools
 - Command and control frameworks
 
-### Chapter 24: Emulating Advanced Threat Actors
+### [Chapter 24: Emulating Advanced Threat Actors](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-24.md)
 - **Caldera** - Automated adversary emulation
   - Operation configuration
   - Example: Running complete adversary profiles
@@ -369,7 +369,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 
 ## Part IX: Specialized Environments
 
-### Chapter 25: Cloud Security Tools
+###[ Chapter 25: Cloud Security Tools](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-25.md)
 - **ScoutSuite** - Multi-cloud security auditing
   - Provider-specific modules
   - Example: Assessing AWS security posture
@@ -381,7 +381,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 - **S3Scanner** - AWS S3 bucket enumeration
   - Example: Finding exposed data
 
-### Chapter 26: Container Security
+### [Chapter 26: Container Security](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-26.md)
 - **Kube-Hunter** - Kubernetes penetration testing
   - Example: Attacking container orchestration
 - **Deepce** - Docker enumeration
@@ -391,7 +391,7 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 - **Trivy** - Comprehensive vulnerability scanner
   - Example: Detecting vulnerable dependencies
 
-### Chapter 27: IoT Security Tools
+### [Chapter 27: IoT Security Tools](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/chapter-27.md)
 - **RFCrack** - RF analysis
   - Example: Testing IoT communications
 - **Firmwalker** - Firmware analysis
@@ -403,28 +403,28 @@ The Back Book of Linux for CyberSecurity and RedTeamers is a pet project of mine
 
 ## Appendices
 
-### Appendix A: Comprehensive Tool Reference
+### [Appendix A: Comprehensive Tool Reference](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/appendix-a.md)
 - Alphabetical listing of all tools
 - Quick reference for syntax and common uses
 - Alternative tools for specific functions
 
-### Appendix B: Custom Script Collection
+### [Appendix B: Custom Script Collection](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/web_vuln_scanner.py)
 - Time-saving bash scripts
 - Integration scripts
 - Automation helpers
 
-### Appendix C: Virtual Lab Setup
+### [Appendix C: Virtual Lab Setup](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/appendix-c.md)
 - Vulnerable machines and networks
 - Isolated testing environments
 - Cloud-based practice labs
 
-### Appendix D: Additional Resources
+### [Appendix D: Additional Resources](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/Appendix-d.md)
 - Recommended reading
 - Online communities
 - Training resources
 - CTF platforms
 
-## Index
+##[ Index](https://github.com/afunnynut/Black-Book-of-Linux-for-Red-Teamers/blob/f9773104f07fbf2c99ba5a28026c0dc54b55f266/Index.md)
 - Detailed tool and technique cross-reference
 
 
